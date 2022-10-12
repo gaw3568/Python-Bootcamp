@@ -1,4 +1,3 @@
-# 파이썬 부트캠프 프로젝트
-## Python Bootcamp Project
+# Python Bootcamp Project
 
-작은 프로젝트 업로드 
+* 꾸준히 작은 프로젝트 업로드
