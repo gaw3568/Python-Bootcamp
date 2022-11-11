@@ -1,8 +1,8 @@
 import requests
 from pprint import pprint
 
-PRICES_ENDPOINT = "https://api.sheety.co/f86c55ff1f68b9236d2ad70b8662f2eb/flightDeals/prices"
-USERS_ENDPOINT = "https://api.sheety.co/f86c55ff1f68b9236d2ad70b8662f2eb/flightDeals/users"
+PRICES_ENDPOINT = "Sheety_API_ENDPOINT"
+USERS_ENDPOINT = "Sheety_API_ENDPOINT"
 class DataManager:
 
     def __init__(self):
