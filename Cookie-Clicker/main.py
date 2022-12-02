@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 GAME_URL = "https://orteil.dashnet.org/cookieclicker/"
 
-CHROME_DRIVER = "/Users/jewon/Development/chromedriver"
+CHROME_DRIVER = "chromedriver_path"
 
 MAX_MINUTES = time.time() + 60 * 5
 
